@@ -5,7 +5,8 @@ Manuscript reference: Walcker, R., Le Lay, C., Gandois, L., Elger, A., Jassey V.
 
 Analysis presented here have been performed using the Jupyter notebook programed in Python language.
 
-!! Please note: this repository contains the scripts used to run the actual analysis presented in the manuscript. Since the time of publication, code aspects may have changed and thus some of these scripts could create errors that did not originally occur.
+!! Please note: this repository contains the scripts used to run the actual analysis presented in the manuscript. Since the time of publication, some aspects may have changed and thus some of these scripts could create errors that did not originally occur.
+!! Please note: figures 1, 2, 3 and 4 of the article are not provided here because generated mannually using ESRI ArcGIS Pro and Microsoft PowerPoint. 
 
 
 # Here are the steps to follow: 
