@@ -11,18 +11,20 @@ Analysis presented here have been performed using the Jupyter notebook programed
 
 # Here are the steps to follow: 
 
-1- Code to display figure 5: Bernadouze_CO2_RemoteSensing_STEP01_Fig5.ipynb
+1- Code to display figure 5: STEP01_Fig5.ipynb
   
-2- Code to display figure 6: Bernadouze_CO2_RemoteSensing_STEP02_Fig6.ipynb
+2- Code to display figure 6: STEP02_Fig6.ipynb
   
-3- Code to display figure 7: Bernadouze_CO2_RemoteSensing_STEP01_Fig7.ipynb
+3- Code to display figure 7: STEP03_Fig7.ipynb
   
-4- Code to generate models: Bernadouze_CO2_RemoteSensing_STEP05_Modelling.ipynb
+4- Code to generate models: STEP04_Modelling.ipynb
   
-5- Code to perform feature importance analysis: Bernadouze_CO2_RemoteSensing_STEP06_FeatureImportance.ipynb
+5- Code to perform feature importance analysis: STEP05_FeatureImportance.ipynb
 
-6- Code to display figure 8: Bernadouze_CO2_RemoteSensing_STEP07_Fig8.ipynb
+6- Code to display figure 8: STEP06_Fig8.ipynb
 
-7- Code to display figure 9: Bernadouze_CO2_RemoteSensing_STEP08_Fig9.ipynb
+7- Code to generate maps: STEP07_Mapping_NEE_ER_GEP.ipynb
 
-9- Code to display figure 10: Bernadouze_CO2_RemoteSensing_STEP09_Fig10.ipynb
+8- Code to display figure 9: STEP08_Fig9.ipynb
+
+9- Code to display figure 10: STEP09_Fig10.ipynb
