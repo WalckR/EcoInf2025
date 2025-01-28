@@ -1,4 +1,4 @@
-# This folder contains scripts for analyses and figures conducted in the manuscript "High-resolution mapping of peatland CO2 fluxes using drone multispectral images"
+# This folder contains data and scripts for analyses and figures presented in the manuscript "High-resolution mapping of peatland CO2 fluxes using drone multispectral images"
 
 
 Manuscript reference: Walcker, R., Le Lay, C., Gandois, L., Elger, A., Jassey V. (in revision) High-resolution mapping of peatland CO2 fluxes using drone multispectral images. Ecological Informatics.
