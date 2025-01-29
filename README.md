@@ -27,7 +27,7 @@ Analysis presented here have been performed using the Jupyter notebook programed
 
 Drone images are made availlable on OpenAerialMap (https://map.openaerialmap.org), a set of tools for searching, sharing, and using openly licensed satellite and UAV imagery. 
 
-!! Please note: following OpenAerialMap requirements, image formats have been changed from 64-bit float to 8-bit unsigned integer. RGB bands are provided as true-color composite and RE and NIR bands as single bands. Calculations based on these reformatted images may not correspond to those presented in the article. Contact the corresponding author if necessary. 
+!! Please note: following OpenAerialMap requirements, image formats have been changed from 64-bit float to 8-bit unsigned integer. RGB bands are provided as true-color composite and RE and NIR bands as single bands. Calculations based on these reformatted images may not exactly correspond to those presented in the article. Contact the corresponding author if necessary. 
 
 1- Images acquired on May the 17th:
 
