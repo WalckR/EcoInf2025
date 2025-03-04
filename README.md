@@ -23,19 +23,6 @@ Analysis presented here have been performed using the Jupyter notebook programed
 
 6- Dataset_with_indices: csv file containing flux, reflectance data and vegetation indices. Produced by STEP03_Fig7.ipynb and needed for STEP04_Modelling.ipynb, STEP05_FeatureImportance.ipynb and STEP06_Fig8.ipynb
 
-# Drone images: 
-
-Drone images are made availlable on OpenAerialMap (https://map.openaerialmap.org), a set of tools for searching, sharing, and using openly licensed satellite and UAV imagery. 
-
-!! Please note: following OpenAerialMap requirements, image formats have been changed from 64-bit float to 8-bit unsigned integer. RGB bands are provided as true-color composite and RE and NIR bands as single bands. Calculations based on these reformatted images may not exactly correspond to those presented in the article. Contact the corresponding author if necessary. 
-
-1- Images acquired on May the 17th:
-
-2- Images acquired on June the 15th:
-
-3- Images acquired on July the 10th:
-
-4-  Images acquired on October the 5th:
 
 # Scripts: 
 
